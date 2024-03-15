@@ -1,0 +1,24 @@
+Inventory Report
+____________________________________________________________________________________________________
+Item: Initial Stock | Current Available Stock
+____________________________________________________________________________________________________
+Beaf Burger: 100 | 100
+Ham Brger: 200 | 198
+Spicy chicken Burger: 300 | 300
+Chicken Overloaded Burger: 400 | 400
+Spicy Beaf Burger: 500 | 495
+Chicken Tikka Burger: 600 | 600
+Tofu Tikka Burger: 700 | 700
+Veg Cheessy Burger: 800 | 800
+Sweet Corn Burger: 900 | 900
+Becon Burger: 1000 | 1000
+Ham Special Burger: 150 | 150
+Bs Spicy Burger: 250 | 250
+B's Chicken Supreme: 320 | 320
+B's Special Beaf Burger: 450 | 450
+Sother Fried Checken Burger: 550 | 550
+Egg Loaded Checken Burger: 650 | 650
+Double Checken Treat Burger: 750 | 750
+B's Supreme Burger: 850 | 850
+All tile Favorite Burger: 950 | 950
+Chef's Special Burger: 1050 | 1050

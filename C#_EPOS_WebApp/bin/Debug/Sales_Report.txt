@@ -1,0 +1,32 @@
+____________________________________________________________________________________________________
+Total Company Sales Report
+Date: 22-12-2023
+____________________________________________________________________________________________________
+Total Transactions: 63
+Total Revenue: 36964.00 € 
+Average Revenue: 586.73 € 
+____________________________________________________________________________________________________
+Last Session Sales Report
+____________________________________________________________________________________________________
+Item Name : Quantity Sold
+Beaf Burger: 10
+Ham Brger: 8
+Spicy chicken Burger: 6
+Chicken Overloaded Burger: 0
+Spicy Beaf Burger: 0
+Chicken Tikka Burger: 0
+Tofu Tikka Burger: 20
+Veg Cheessy Burger: 18
+Sweet Corn Burger: 0
+Becon Burger: 0
+Ham Special Burger: 0
+Bs Spicy Burger: 0
+B's Chicken Supreme: 0
+B's Special Beaf Burger: 0
+Sother Fried Checken Burger: 0
+Egg Loaded Checken Burger: 0
+Double Checken Treat Burger: 0
+B's Supreme Burger: 0
+All tile Favorite Burger: 15
+Chef's Special Burger: 0
+____________________________________________________________________________________________________
