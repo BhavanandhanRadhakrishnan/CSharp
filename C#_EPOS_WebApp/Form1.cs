@@ -1,7 +1,3 @@
-﻿/* Student Name: Bhavanandhan L R
- * Student ID: 23103646
- * Date: 22/12/2023
- * Assignment 4*/
 //This is an EPOS application for B's Cafe that manages orders,stock, sales and reports appropriately
 using System;
 using System.Collections;
